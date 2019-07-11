@@ -1,7 +1,20 @@
 # Educación en linea
 
-## Preámbulo: 
-La era del Internet y los teléfonos móviles han permitido que muchos productos y servicios cambien su forma de distribución para adaptarse a esta nueva era, hoy en día es posible pedir un taxi, comprar productos del supermercado o tener consultas médicas a través de una aplicación o una web.  Muchos mercados que operaban de una manera tradicional han tenido que adaptarse y muchas empresas siguen aún adaptándose para poder competir con nuevas empresas que han nacido en la era digital y que están tomando una buena porción del mercado por ej: Warby Parker, Casper, Dollar Shave Club, etc. La educación no se ha quedado atrás, y hoy tenemos distintos tipos de ofertas en línea para aprender sobre una gran gama de temas. Sin embargo, existen aún instituciones educativas muy tradicionales que están buscando cómo adaptarse a estas nuevas formas de consumo. Muchas han tenido algunos primero intentos, sin embargo existe aún un gran espacio para mejorar la experiencia de aprendizaje en línea. 
+## Introducción: 
+La persona humana aspira a la grandeza, tiene grandes ideales y busca constantemente satisfacer sus ganas de trascender.
+La educación, el dominio de sí y el aprendizaje le permiten ir descubriendo las formas correctas y efectivas de alcanzar ese ‘sentido de vida’.
+Las principales razones por las cuáles una persona desea recibir capacitación tienen que ver con la satisfacción personal, el deseo de cambiar empleo o bien, obtener un mejor salario o ascenso.
+En general, los estudiantes están acostumbrados a estudiar en una modalidad presencial, sin embargo, han
+comenzado a adoptar la modalidad mixta, donde pueden combinar la asistencia a la escuela
+con programas digitales y tener mejor manejo de su tiempo.
+
+En México, las principales universidades públicas y privadas del país se han unido a esta tendencia y ofrecen cursos, certificados, carreras universitarias, diplomados y maestrías en línea que incluyen los mismos aprendizajes y enseñanzas que los estudios presenciales. 
+
+Es importante resaltar los beneficios de estudiar en modalidad en línea, ya que de
+acuerdo a los internautas, esta modalidad les exige tener mayor disciplina,
+proactividad y dedicación.
+
+
 
 ## Descripción
 Desarrollar una visión estratégica sobre cómo las herramientas tecnológicas pueden mejorar la experiencia de estudio, docencia, y gestión en el día a día de estudiantes, profesores y personal académico de una universidad o institución con programas educativos 100% online.
@@ -13,3 +26,17 @@ Desarrollar una visión estratégica sobre cómo las herramientas tecnológicas 
 
 ## Objetivo de aprendizaje
 Comprender el diseño estratégico como un proceso que, a través del entendimiento del usuario, nos permite desarrollar un pensamiento sistémico y proponer soluciones innovadoras para problemas complejos (wicked problems). Familiarizarse con herramientas relacionadas al diseño estratégico como trend scan, insights y oportunidades, diseño de conceptos de solución y roadmap de implementación.
+
+## Entendimiento del negocio
+
+## Entendimiento de las personas
+
+## Áreas de oportunidad
+
+## Ideación
+
+## Soluciones
+
+## Futuro
+
+
