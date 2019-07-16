@@ -34,6 +34,10 @@ Comprender el diseño estratégico como un proceso que, a través del entendimie
 ## Áreas de oportunidad
 
 ## Ideación
+Para la etapa de ideación utilizamos la herramienta de Crazy Eights, para generar la mayor cantidas de ideas posibles.
+![Clustering](https://i.ibb.co/BNCtBcb/Ganador-Clustering.jpg)
+
+Una vez 
 
 ## Soluciones
 
