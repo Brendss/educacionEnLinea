@@ -105,6 +105,11 @@ Las empresas pagarán una cuota para poder acceder a los perfiles y proyectos de
 
 La Universidad en línea busca que los alumnos adquieran experiencia y se inserten al ámbito laboral desde el inicio. 
 
+## Realizado por
+Andrea Cruz https://github.com/AndieCruz
+Brenda Vasquez https://github.com/Brendss/
+Cristal García https://github.com/Cristalgarcia
+
 
 
 
