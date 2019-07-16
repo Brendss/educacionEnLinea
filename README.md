@@ -28,8 +28,35 @@ Desarrollar una visión estratégica sobre cómo las herramientas tecnológicas 
 Comprender el diseño estratégico como un proceso que, a través del entendimiento del usuario, nos permite desarrollar un pensamiento sistémico y proponer soluciones innovadoras para problemas complejos (wicked problems). Familiarizarse con herramientas relacionadas al diseño estratégico como trend scan, insights y oportunidades, diseño de conceptos de solución y roadmap de implementación.
 
 ## Entendimiento del negocio
+En México, una de cada 3 personas se encuentra estudiando en algún grado escolar y en conjunto suman 42 millones de estudiantes con un promedio de 9.2 años cursados, que equivale a una carrera técnica o comercial con secundaria concluida.
+
+Si bien la media se ha incrementado, aún falta mucho para lograr que la población cuente con estudios especializados que le permitan tener una mayor competitividad que se traduzca en mayores fuentes de empleo, mayor emprendimiento y por supuesto, una mejora del ingreso familiar.
+
+![img](https://imgbbb.com/images/2019/07/16/Captura-de-Pantalla-2019-04-09-a-las-13.28.12.png)
+
+Una de las soluciones que se ha construido sólidamente en los últimos años es la autoformación digital, es decir, la educación especializada a la carta que permite a los individuos continuar con su formación en un entorno mucho más amigable y flexible, decidiendo horarios, planes de estudio y presupuestos.
+
+De acuerdo con el estudio sobre educación en línea presentado por la Asociación de Internet, el 97% de los internautas en México se encuentra estudiando o bien, está interesado en hacerlo. Además, existe un panorama propicio para la educación on line, ya que 7 de cada 10 usuarios de internet (67%) tiene empleo y de ellos, el 57% gana entre 5,000 y 15, 000 pesos, situación que permitiría invertir en la formación continua.
+
+Este panorama se vuelve aún más atractivo para la especialización y educación continua, ya que el 62% de los usuarios de Internet en México cuentan con una licenciatura o ingeniería concluida, en curso o trunca, lo que construye un amplio mercado para la educación especializada.
+
+El reporte realizado por la Cumbre Mundial para la Innovación en Educación, señala que en el 2030: el rol de los docentes será guiar al estudiante por su propia vía de conocimiento. Serán facilitadores y orientadores, más que transmisores del saber. 
+«Un alumno con muchas más posibilidades de acceso a fuentes de conocimiento, con una mentalidad más universal y menos localista, protagonista indiscutible de su aprendizaje, un ciudadano global que busca a través del aprendizaje un modo de responder a alguna necesidad del entorno»
+El currículo tendrá más contenidos personalizados a la medida de cada alumno y las habilidades personales o prácticas serán más valoradas que los conocimientos académicos.
+
+Habrá un aumento de la demanda de trabajadores cualificados, con unas competencias técnicas y transversales que les permitan adaptarse a los diferentes tipos de trabajo y a las demandas de cada sector.
+La idea de un trabajo para toda la vida dejará de existir, las personas trabajaran en varias empresas, distintos puestos de trabajo y sectores de actividad. Eso requerirá a profesionales con amplias competencias y capacidad de adaptación al cambio.
+
+Las empresas buscarán a los trabajadores que mejor se ajusten con cada puesto de trabajo, teniendo en cuenta su perfil profesional y ofrecerán diferentes tipos de contratos que respondan a sus necesidades.
+Para cubrir los diferentes tipos de trabajo se requerirán a profesionales bien cualificados y con una serie de competencias que les ayuden a desenvolver con éxito el trabajo. La formación será importante pero perderá peso y ganarán peso las competencias, tanto las técnicas que ayudan a desarrollar la profesión, como las transversales.
+
+La formación continua tendrá también un papel clave, la formación a lo largo de la vida será fundamental para que cada trabajador se pueda adaptar a todos los cambios que se producirán en el mercado de trabajo. Estar en constante formación y aprendiendo cosas nuevas permitirá a los trabajadores continuar siendo competitivos frente a un mercado de trabajo en el que las nuevas tecnologías supondrán un gran impacto ganando territorio y se automatizarán muchos procesos industriales.
+
+Utilizamos el Benchmark para identificar las propuestas existentes en el mercado y cómo podríamos generar una mejor experiencia a los principales Stakeholders involucrados.
+![benchmarck](https://imgbbb.com/images/2019/07/16/Ganador---Benchmark.jpg)
 
 ## Entendimiento de las personas
+
 
 ## Reto de diseño
 Con los insights obtenidos durante la etapa de entendimiento, pasamos a la etapa de definición del problema con la ayuda de las herramientas de los 4 W´s y los 5 Why´s. Dichas herramientas nos ayudaron a analizar las problemáticas identificadas, a profundizar
