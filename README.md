@@ -31,11 +31,24 @@ Comprender el diseño estratégico como un proceso que, a través del entendimie
 
 ## Entendimiento de las personas
 
-## Áreas de oportunidad
+## Reto de diseño
+Con los insights obtenidos durante la etapa de entendimiento, pasamos a la etapa de definición del problema con la ayuda de las herramientas de los 4 W´s y los 5 Why´s.
+
+Detectamos que los principales problemas a los que se enfrentan los alumnos son: autogestión, mantenerse motivados para culminar sus cursos, herramientas de aprendizaje poco dinámicas, la falta de comunidad y de feedback oportuno por parte de los profesores. 
+![Estudiante](https://i.ibb.co/XbsHyJK/Ganador-4-w-39-s-Alumnos.jpg)
+
+Los profesores por su lado también necesitan recibir retroalimentación tanto por parte de los alumnos como por parte de sus colegas; tener los recursos para mantener el nivel educativo y contar con el diseño instruccional de los materiales.
+![Profesor](https://i.ibb.co/wN8RL3z/Ganador-4-w-39-s-Profesores.jpg)
+
+El mayor reto al que se enfrenta la institución académica es mantenerse a la vanguardia educativa y seguir siendo un referente en cuanto a la calidad de su oferta educativa como de sus profesores. Por la parte del negocio necesita la permanencia y el aumento de alumnos inscritos en la institución.
+![Personal académico](https://i.ibb.co/1fHQvbx/Ganador-4-w-39-s-Instituci-n-acad-mica.jpg)
+
 
 ## Ideación
 Para responder las oportunidades planteadas en los insights, realizamos un taller de ideación utilizando la herramienta de Crazy Eights; con el que buscamos generar la mayor cantidad de ideas posibles. Posteriormente las agrupamos en Big Ideas y las colocamos dentro del Profile Drive Ideation.
 ![Clustering](https://i.ibb.co/BNCtBcb/Ganador-Clustering.jpg)
+
+Con el fin de mantenernos enfocados durante el proceso de ideación nos apoyamos en el Profile Drive Ideation, teniendo siempre presentes las necesidades reales y los Persona profiles.
 ![PDI](https://i.ibb.co/ccLSnKD/Ganador-Profile-drive-ideation.jpg)
 
 Como resultado obtuvimos: *Modelo educativo con base en competencias, que sea 100 % personalizado para  cada estudiante. Brindando herramientas educativas con base a su tipo de inteligencia.* 
