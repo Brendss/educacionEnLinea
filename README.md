@@ -32,9 +32,11 @@ Comprender el diseño estratégico como un proceso que, a través del entendimie
 ## Entendimiento de las personas
 
 ## Reto de diseño
-Con los insights obtenidos durante la etapa de entendimiento, pasamos a la etapa de definición del problema con la ayuda de las herramientas de los 4 W´s y los 5 Why´s.
+Con los insights obtenidos durante la etapa de entendimiento, pasamos a la etapa de definición del problema con la ayuda de las herramientas de los 4 W´s y los 5 Why´s. Dichas herramientas nos ayudaron a analizar las problemáticas identificadas, a profundizar
+en sus causas y a entender las consecuencias que tienen en las personas.
 
-Detectamos que los principales problemas a los que se enfrentan los alumnos son: autogestión, mantenerse motivados para culminar sus cursos, herramientas de aprendizaje poco dinámicas, la falta de comunidad y de feedback oportuno por parte de los profesores. 
+Detectamos que los principales problemas a los que se enfrentan los alumnos son: autogestión, mantenerse motivados para culminar sus cursos, herramientas de aprendizaje poco dinámicas, la falta de comunidad y de feedback oportuno por parte de los profesores.
+
 ![Estudiante](https://i.ibb.co/XbsHyJK/Ganador-4-w-39-s-Alumnos.jpg)
 
 Los profesores por su lado también necesitan recibir retroalimentación tanto por parte de los alumnos como por parte de sus colegas; tener los recursos para mantener el nivel educativo y contar con el diseño instruccional de los materiales.
@@ -42,6 +44,12 @@ Los profesores por su lado también necesitan recibir retroalimentación tanto p
 
 El mayor reto al que se enfrenta la institución académica es mantenerse a la vanguardia educativa y seguir siendo un referente en cuanto a la calidad de su oferta educativa como de sus profesores. Por la parte del negocio necesita la permanencia y el aumento de alumnos inscritos en la institución.
 ![Personal académico](https://i.ibb.co/1fHQvbx/Ganador-4-w-39-s-Instituci-n-acad-mica.jpg)
+
+Para facilitar la siguiente etapa de Ideación determinamos un HMW?: _*¿Cómo podríamos mantener motivados a los estudiantes para que concluyan su curso?*_
+
+Con las entrevistas realizadas logramos establecer los ejes de comportamiento que nos permitieran realizar los arquetipos para así formar dos User personas. Mediante la utilización del Empathy Map logramos terminar de empatizar con los usuarios.
+![Alumno](https://i.ibb.co/W62Sd2C/Ganador-User-persona-alumno-1.jpg)
+![Profesor](https://i.ibb.co/rQB2hmD/Ganador-User-persona-profesor.jpg)
 
 
 ## Ideación
