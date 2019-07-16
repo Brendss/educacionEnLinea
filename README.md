@@ -47,7 +47,8 @@ El mayor reto al que se enfrenta la institución académica es mantenerse a la v
 
 Para facilitar la siguiente etapa de Ideación determinamos un HMW?: _*¿Cómo podríamos mantener motivados a los estudiantes para que concluyan su curso?*_
 
-Con las entrevistas realizadas logramos establecer los ejes de comportamiento que nos permitieran realizar los arquetipos para así formar dos User personas. Mediante la utilización del Empathy Map logramos terminar de empatizar con los usuarios.
+Con las entrevistas realizadas logramos establecer los ejes de comportamiento que nos permitieron realizar los arquetipos para así formar dos User personas. Mediante la utilización del Empathy Map logramos terminar de empatizar con los usuarios.
+
 ![Alumno](https://i.ibb.co/W62Sd2C/Ganador-User-persona-alumno-1.jpg)
 ![Profesor](https://i.ibb.co/rQB2hmD/Ganador-User-persona-profesor.jpg)
 
