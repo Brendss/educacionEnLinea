@@ -10,9 +10,9 @@ con programas digitales y tener mejor manejo de su tiempo.
 
 En México, las principales universidades públicas y privadas del país se han unido a esta tendencia y ofrecen cursos, certificados, carreras universitarias, diplomados y maestrías en línea que incluyen los mismos aprendizajes y enseñanzas que los estudios presenciales. 
 
-Es importante resaltar los beneficios de estudiar en modalidad en línea, ya que de
-acuerdo a los internautas, esta modalidad les exige tener mayor disciplina,
-proactividad y dedicación.
+Es importante resaltar los beneficios de estudiar en modalidad en línea, ya que de acuerdo a los internautas, esta modalidad les exige tener mayor disciplina, proactividad y dedicación.
+
+![Ventajas](https://i.ibb.co/fHqJwNh/image-1.png)
 
 
 
@@ -70,7 +70,37 @@ La implementación de la solución se plantea en un Roadmap a corto, mediano y l
 ![Roadmap](https://i.ibb.co/4j0cPjW/road.png)
 
 ## Soluciones
+Para seleccionar las propuestas que realmente pudieran ayudarle a los estudiantes, solicitamos el apoyo de diez usuarios, quienes escogieron las ideas que pueden motivarlos a continuar estudiando en en línea. Las preferidas fueron:
+- Tener una comunidad.
+- Plataforma personalizada.
+- Profesor digital.
+- Realizar ejercicios y retos para reforzar sus conocimientos. 
+- Remuneración por proyecto.
+- Gratificación acorde a los cursos concluidos.
+- Plan de estudio bajo competencias. 
 
-## Futuro
+Las propuestas fueron validadas a través de Value Proposition Canvas para identificar cuáles van acorde a las necesidades y a la visión del negocio. 
+
+
+**Propuesta**
+Test de inteligencia
+El alumno, cuando inicie el curso, tendrá que realizar un test de inteligencia para identificar los recursos que le brinden la mejor experiencia de aprendizaje, para que pueda potencializar sus capacidades. El test está basado en la Teoría de las Inteligencias Múltiples de Howard Gardner, quien identificó ocho:  Natural, musical, lógico matemático, espacial, intrapersonal, interpersonal, lingüística, corporal- cinestésica.  
+
+Una vez realizado el test de inteligencia, la plataforma le asignará al estudiante los recursos que puede utilizar acorde a su perfil, el cual aborda más de un tipo de inteligencias.
+Conforme el alumno se vaya desempeñando, el sistema, con ayuda de Inteligencia Artificial, va a personalizar  su perfil para ofrecerle los recursos que se ajustena su perfil y los cursos conforme a sus intereses. 
+
+Las herramientas pedagógicas que se ofrecerán son: códigos QR, VR, RA, videos, podcast, skills de interfaz de voz, audiolibros, esquemas, retos, acertijos, infografías, presentaciones, blogs, diario personal, evaluaciones, resumen, videoconferencias, foros, chats, debates, lecturas, ensayos, video exposiciones, dibujo y fotografías.
+
+**Plan de negocios**
+
+El principal ingreso para sostener la plataforma reside en la inscripción de los alumnos a la Universidad. 
+
+En segundo momento, la Universidad, buscará empresas que estén interesadas en el nuevo modelo educativo y en el perfil de los estudiantes. 
+Por su parte, los estudiantes tendrán la oportunidad de publicar sus proyectos en la plataforma desde que inicien el curso, con la finalidad de darse a conocer y que las empresas puedan detectar el talento que necesitan.  
+Las empresas pagarán una cuota para poder acceder a los perfiles y proyectos de los alumnos y poder concluir la contratación. 
+
+La Universidad en línea busca que los alumnos adquieran experiencia y se inserten al ámbito laboral desde el inicio. 
+
+
 
 
