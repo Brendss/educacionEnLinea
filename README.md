@@ -34,10 +34,18 @@ Comprender el diseño estratégico como un proceso que, a través del entendimie
 ## Áreas de oportunidad
 
 ## Ideación
-Para la etapa de ideación utilizamos la herramienta de Crazy Eights, para generar la mayor cantidas de ideas posibles.
+Para responder las oportunidades planteadas en los insights, realizamos un taller de ideación utilizando la herramienta de Crazy Eights; con el que buscamos generar la mayor cantidad de ideas posibles. Posteriormente las agrupamos en Big Ideas y las colocamos dentro del Profile Drive Ideation.
 ![Clustering](https://i.ibb.co/BNCtBcb/Ganador-Clustering.jpg)
+![PDI](https://i.ibb.co/ccLSnKD/Ganador-Profile-drive-ideation.jpg)
 
-Una vez 
+Como resultado obtuvimos: *Modelo educativo con base en competencias, que sea 100 % personalizado para  cada estudiante. Brindando herramientas educativas con base a su tipo de inteligencia.* 
+
+*Utilizar Inteligencia Artificial para detectar las áreas de oportunidad y las emociones de los estudiantes, de esta forma brindar ayuda en el momento oportuno.*
+
+*Crear una comunidad sólida entre los estudiantes para que encuentren  apoyo entre estudiantes y los motiven haciendo visible las competencias que sus amigos deciden estudiar.*
+
+La implementación de la solución se plantea en un Roadmap a corto, mediano y largo plazo.
+![Roadmap](https://i.ibb.co/4j0cPjW/road.png)
 
 ## Soluciones
 
