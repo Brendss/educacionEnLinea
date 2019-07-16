@@ -134,7 +134,9 @@ La Universidad en línea busca que los alumnos adquieran experiencia y se insert
 
 ## Realizado por
 Andrea Cruz https://github.com/AndieCruz
-Brenda Vasquez https://github.com/Brendss/
+
+Brenda Vasquez https://github.com/Brendss
+
 Cristal García https://github.com/Cristalgarcia
 
 
